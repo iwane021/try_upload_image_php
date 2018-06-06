@@ -1,7 +1,6 @@
 # Upload Image PHP using Bootstrap & Font Awesome
 If you want create upload image using PHP and then preview image before uploaded, this script can you developed again guys. 
 
-Because i made upload image php very simple. Thanks
 
 ## Upload Image with Preview Screenshot :
 <img src="https://github.com/iwane021/upload_image_php/blob/master/assets/images/upload-image-php.jpg"/>
